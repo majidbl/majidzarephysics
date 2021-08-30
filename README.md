@@ -1,6 +1,6 @@
 # Hello 👋  :)
 
-## I’m go backend developer, tech enthusiast
+## I’m go backend developer and tech enthusiast
 
 ### a simple Software Developer
 
